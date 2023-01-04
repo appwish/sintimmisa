@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sintimmisa
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend Development with PHP
+- 🌱 I’m currently learning PHP for Wordpress Theme Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 How to reach me sintim.misa@gmail.com
 
